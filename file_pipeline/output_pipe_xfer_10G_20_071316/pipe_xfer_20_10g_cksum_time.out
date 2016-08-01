@@ -1,0 +1,88 @@
+
+real	0m26.509s
+user	0m0.006s
+sys	0m0.006s
+
+real	0m27.242s
+user	0m0.007s
+sys	0m0.010s
+
+real	0m26.455s
+user	0m0.007s
+sys	0m0.007s
+
+real	0m26.654s
+user	0m0.006s
+sys	0m0.010s
+
+real	0m26.501s
+user	0m0.010s
+sys	0m0.002s
+
+real	0m26.559s
+user	0m0.008s
+sys	0m0.007s
+
+real	0m26.518s
+user	0m0.009s
+sys	0m0.004s
+
+real	0m26.595s
+user	0m0.010s
+sys	0m0.005s
+
+real	0m26.596s
+user	0m0.008s
+sys	0m0.005s
+
+real	0m26.999s
+user	0m0.010s
+sys	0m0.008s
+
+real	0m26.446s
+user	0m0.008s
+sys	0m0.005s
+
+real	0m26.536s
+user	0m0.007s
+sys	0m0.007s
+
+real	0m26.647s
+user	0m0.010s
+sys	0m0.004s
+
+real	0m26.590s
+user	0m0.008s
+sys	0m0.007s
+
+real	0m26.550s
+user	0m0.011s
+sys	0m0.003s
+
+real	0m26.572s
+user	0m0.012s
+sys	0m0.001s
+
+real	0m26.895s
+user	0m0.007s
+sys	0m0.007s
+
+real	0m26.708s
+user	0m0.006s
+sys	0m0.009s
+
+real	0m26.525s
+user	0m0.004s
+sys	0m0.009s
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : globus_l_gfs_file_open failed.
+500-globus_xio: Unable to open file /gpfs/mira-fs1/projects/Concerted_Flows/EPSON/checksum_tests/10G.data20/10G.data20
+500-globus_xio: System error in open: Not a directory
+500-globus_xio: A system call failed: Not a directory
+500 End.
+
+
+real	0m0.613s
+user	0m0.007s
+sys	0m0.009s

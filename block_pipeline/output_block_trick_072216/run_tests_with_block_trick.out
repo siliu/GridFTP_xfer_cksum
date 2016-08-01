@@ -1,0 +1,15 @@
+********************pipe_block_xfer_10G_20_time_block100M********************
+
+real	32m26.836s
+user	0m25.423s
+sys	0m23.799s
+********************pipe_block_xfer_10G_20_time_block500M********************
+
+real	46m31.285s
+user	0m5.391s
+sys	0m5.202s
+********************pipe_block_xfer_10G_20_time_block1G********************
+
+real	47m59.361s
+user	0m2.709s
+sys	0m2.624s

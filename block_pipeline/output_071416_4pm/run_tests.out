@@ -1,0 +1,50 @@
+********************pipe_block_xfer_10G_20_time_block100M********************
+
+real	9m51.177s
+user	0m26.909s
+sys	0m22.254s
+********************pipe_block_xfer_10G_20_time_block500M********************
+
+real	11m27.764s
+user	0m5.557s
+sys	0m4.778s
+********************pipe_block_xfer_10G_20_time_block1G********************
+
+real	13m59.831s
+user	0m2.913s
+sys	0m2.567s
+********************pipe_block_xfer_10G_20_time_block2G********************
+
+real	12m9.735s
+user	0m1.442s
+sys	0m1.329s
+********************pipe_file_xfer_10G_20********************
+
+real	9m6.538s
+user	0m0.309s
+sys	0m0.298s
+********************pipe_block_xfer_10G_10M_time_block100M********************
+
+real	5m14.832s
+user	0m13.676s
+sys	0m11.462s
+********************pipe_block_xfer_10G_10M_time_block500M********************
+
+real	5m47.234s
+user	0m2.973s
+sys	0m2.553s
+********************pipe_block_xfer_10G_10M_time_block1G********************
+
+real	4m48.457s
+user	0m1.529s
+sys	0m1.370s
+********************pipe_block_xfer_10G_10M_time_block2G********************
+
+real	7m8.413s
+user	0m0.883s
+sys	0m0.745s
+********************pipe_file_xfer_10G_10M********************
+
+real	6m7.204s
+user	0m0.314s
+sys	0m0.276s
