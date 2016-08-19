@@ -1,0 +1,27 @@
+********************real data dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  704
+Time taken for 100 block pipeline is :  569
+Time taken for 500 block pipeline is :  520
+Time taken for 1000 block pipeline is :  516
+********************real data dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  675
+********************real data dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  670
+********************real data dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  664
+Time taken for 100 block pipeline is :  575
+Time taken for 500 block pipeline is :  525
+Time taken for 1000 block pipeline is :  519
+********************real data dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  683
+********************real data dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  671
+********************real data dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  666
+Time taken for 100 block pipeline is :  583
+Time taken for 500 block pipeline is :  525
+Time taken for 1000 block pipeline is :  519
+********************real data dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  678
+********************real data dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  674

@@ -1,0 +1,18 @@
+Run-1: 
+********************10G 500M dataset seq xfer ********************
+Time taken for 10G-500m dataset sequential data transfer is :  1224
+********************10G 500M dataset seq xfer md5sum ********************
+Time taken for 10G-500m dataset sequential data transfer is :  1678
+********************20 10G dataset seq xfer ********************
+Time taken for 20-10G dataset sequential data transfer is :  3148
+********************20 10G dataset seq xfer md5sum ********************
+Time taken for 20-10G dataset sequential data transfer is :  3293
+Run-2: 
+********************10G 500M dataset seq xfer ********************
+Time taken for 10G-500m dataset sequential data transfer is :  1836
+********************10G 500M dataset seq xfer md5sum ********************
+Time taken for 10G-500m dataset sequential data transfer is :  1584
+********************20 10G dataset seq xfer ********************
+Time taken for 20-10G dataset sequential data transfer is :  3294
+********************20 10G dataset seq xfer md5sum ********************
+Time taken for 20-10G dataset sequential data transfer is :  3522

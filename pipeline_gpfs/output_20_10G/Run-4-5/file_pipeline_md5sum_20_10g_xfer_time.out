@@ -1,0 +1,202 @@
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : callback failed.
+500-globus_xio: System error in write: Disk quota exceeded
+500-globus_xio: A system call failed: Disk quota exceeded
+500 End.
+
+
+real	0m1.528s
+user	0m0.006s
+sys	0m0.006s
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : callback failed.
+500-globus_xio: System error in write: Disk quota exceeded
+500-globus_xio: A system call failed: Disk quota exceeded
+500 End.
+
+
+real	0m1.918s
+user	0m0.008s
+sys	0m0.003s
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : callback failed.
+500-globus_xio: System error in write: Disk quota exceeded
+500-globus_xio: A system call failed: Disk quota exceeded
+500 End.
+
+
+real	0m1.451s
+user	0m0.009s
+sys	0m0.001s
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : callback failed.
+500-globus_xio: System error in write: Disk quota exceeded
+500-globus_xio: A system call failed: Disk quota exceeded
+500 End.
+
+
+real	0m1.493s
+user	0m0.005s
+sys	0m0.006s
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : callback failed.
+500-globus_xio: System error in write: Disk quota exceeded
+500-globus_xio: A system call failed: Disk quota exceeded
+500 End.
+
+
+real	0m1.429s
+user	0m0.005s
+sys	0m0.006s
+
+error: globus_ftp_client: the server responded with an error
+500 500-Command failed. : callback failed.
+500-globus_xio: System error in write: Disk quota exceeded
+500-globus_xio: A system call failed: Disk quota exceeded
+500 End.
+
+
+real	0m1.492s
+user	0m0.003s
+sys	0m0.008s
+
+real	0m8.921s
+user	0m0.005s
+sys	0m0.006s
+
+real	0m8.923s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m11.806s
+user	0m0.006s
+sys	0m0.007s
+
+real	0m8.802s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m9.252s
+user	0m0.007s
+sys	0m0.006s
+
+real	0m8.867s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m9.250s
+user	0m0.010s
+sys	0m0.004s
+
+real	0m8.821s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m9.341s
+user	0m0.006s
+sys	0m0.007s
+
+real	0m8.791s
+user	0m0.007s
+sys	0m0.004s
+
+real	0m9.560s
+user	0m0.009s
+sys	0m0.005s
+
+real	0m8.808s
+user	0m0.004s
+sys	0m0.006s
+
+real	0m9.280s
+user	0m0.007s
+sys	0m0.006s
+
+real	0m8.851s
+user	0m0.008s
+sys	0m0.003s
+
+real	0m9.269s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m9.103s
+user	0m0.005s
+sys	0m0.005s
+
+real	0m10.253s
+user	0m0.008s
+sys	0m0.004s
+
+real	0m8.966s
+user	0m0.005s
+sys	0m0.005s
+
+real	0m10.439s
+user	0m0.008s
+sys	0m0.004s
+
+real	0m8.779s
+user	0m0.007s
+sys	0m0.004s
+
+real	0m9.257s
+user	0m0.007s
+sys	0m0.007s
+
+real	0m12.178s
+user	0m0.003s
+sys	0m0.007s
+
+real	0m9.639s
+user	0m0.010s
+sys	0m0.004s
+
+real	0m8.804s
+user	0m0.007s
+sys	0m0.004s
+
+real	0m11.820s
+user	0m0.008s
+sys	0m0.005s
+
+real	0m8.772s
+user	0m0.006s
+sys	0m0.006s
+
+real	0m9.220s
+user	0m0.007s
+sys	0m0.007s
+
+real	0m11.250s
+user	0m0.007s
+sys	0m0.004s
+
+real	0m9.640s
+user	0m0.006s
+sys	0m0.007s
+
+real	0m11.570s
+user	0m0.004s
+sys	0m0.008s
+
+real	0m9.455s
+user	0m0.008s
+sys	0m0.006s
+
+real	0m8.761s
+user	0m0.005s
+sys	0m0.007s
+
+real	0m9.233s
+user	0m0.010s
+sys	0m0.003s
+
+real	0m8.745s
+user	0m0.006s
+sys	0m0.005s

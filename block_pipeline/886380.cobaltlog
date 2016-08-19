@@ -1,0 +1,26 @@
+Jobid: 886380
+qsub -I -A Concerted_Flows -n 2 -t 12:00:00
+Mon Aug 08 15:12:31 2016 +0000 (UTC) submitted with cwd set to: /gpfs/mira-home/siliu/cksum_scripts/block_pipeline
+jobid 886380 submitted from terminal /dev/pts/29
+Tue Aug 09 08:12:31 2016 +0000 (UTC) 
+Tue Aug 09 08:12:31 2016 +0000 (UTC) Command: '/usr/bin/ssh' 'cc065.cooley' '/usr/bin/cobalt-launcher.py' '--nf' '/var/tmp/cobalt.886380' '--jobid' '886380' '--cwd' '/gpfs/mira-home/siliu/cksum_scripts/block_pipeline' '--env' 'COBALT_JOBID=886380' '/bin/sleep' '43200'
+Tue Aug 09 08:12:31 2016 +0000 (UTC) 
+Tue Aug 09 08:12:31 2016 +0000 (UTC) Environment:
+Tue Aug 09 08:12:31 2016 +0000 (UTC) SHELL=/bin/bash
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_NODEFILE=/tmp/tmp0MHXzY
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_PARTNAME=cc065.cooley
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_JOBID=886380
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_STARTTIME=1470730334
+Tue Aug 09 08:12:31 2016 +0000 (UTC) LOGNAME=siliu
+Tue Aug 09 08:12:31 2016 +0000 (UTC) USER=siliu
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_ENDTIME=1470773534
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_PARTSIZE=2
+Tue Aug 09 08:12:31 2016 +0000 (UTC) HOME=/home/siliu
+Tue Aug 09 08:12:31 2016 +0000 (UTC) COBALT_JOBSIZE=2
+Tue Aug 09 08:12:31 2016 +0000 (UTC) 
+Tue Aug 09 08:12:31 2016 +0000 (UTC) Info: stdin received from /dev/null
+Tue Aug 09 08:12:31 2016 +0000 (UTC) Info: stdout sent to /gpfs/mira-home/siliu/cksum_scripts/block_pipeline/886380.output
+Tue Aug 09 08:12:31 2016 +0000 (UTC) Info: stderr sent to /gpfs/mira-home/siliu/cksum_scripts/block_pipeline/886380.error
+Tue Aug 09 08:12:31 2016 +0000 (UTC) 
+Tue Aug 09 20:12:22 2016 +0000 (UTC) Info: maximum execution time exceeded; initiating job termination
+Tue Aug 09 20:12:33 2016 +0000 (UTC) Info: job is in the process of exiting; user delete request ignored

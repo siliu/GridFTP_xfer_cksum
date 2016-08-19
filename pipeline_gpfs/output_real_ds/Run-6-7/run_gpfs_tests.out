@@ -1,0 +1,34 @@
+Dataset 10G-500M Run-1: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  224
+Time taken for 500 block pipeline is :  141
+Time taken for 1000 block pipeline is :  139
+Time taken for 2000 block pipeline is :  139
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  297
+Dataset 10G-500M Run-2: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  229
+Time taken for 500 block pipeline is :  151
+Time taken for 1000 block pipeline is :  170
+Time taken for 2000 block pipeline is :  139
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  294
+Dataset 20-10G Run-1: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  436
+Time taken for 500 block pipeline is :  263
+Time taken for 1000 block pipeline is :  255
+Time taken for 2000 block pipeline is :  243
+********************20 10G dataset file pipeline on GPFS********************
+Connection closed by 10.233.100.164
+Time taken for 20 10G dataset file pipeline is :  398
+Dataset 20-10G Run-2: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  408
+Time taken for 500 block pipeline is :  266
+Time taken for 1000 block pipeline is :  255
+Time taken for 2000 block pipeline is :  243
+********************20 10G dataset file pipeline on GPFS********************
+Connection closed by 10.233.100.164
+Time taken for 20 10G dataset file pipeline is :  399

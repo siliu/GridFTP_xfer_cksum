@@ -1,0 +1,200 @@
+
+real	0m7.368s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m11.024s
+user	0m0.009s
+sys	0m0.002s
+
+real	0m17.596s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m17.931s
+user	0m0.006s
+sys	0m0.007s
+
+real	0m15.215s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m20.178s
+user	0m0.008s
+sys	0m0.003s
+
+real	0m18.724s
+user	0m0.007s
+sys	0m0.004s
+
+real	0m15.872s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m17.942s
+user	0m0.007s
+sys	0m0.005s
+
+real	0m22.024s
+user	0m0.005s
+sys	0m0.007s
+
+real	0m6.936s
+user	0m0.009s
+sys	0m0.003s
+
+real	0m15.639s
+user	0m0.009s
+sys	0m0.003s
+
+real	0m17.192s
+user	0m0.008s
+sys	0m0.004s
+
+real	0m17.651s
+user	0m0.009s
+sys	0m0.002s
+
+real	0m15.125s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m18.593s
+user	0m0.009s
+sys	0m0.003s
+
+real	0m15.633s
+user	0m0.006s
+sys	0m0.006s
+
+real	0m17.238s
+user	0m0.006s
+sys	0m0.006s
+
+real	0m15.203s
+user	0m0.009s
+sys	0m0.003s
+
+real	0m25.073s
+user	0m0.005s
+sys	0m0.008s
+
+real	0m7.260s
+user	0m0.006s
+sys	0m0.006s
+
+real	0m7.353s
+user	0m0.007s
+sys	0m0.005s
+
+real	0m17.757s
+user	0m0.010s
+sys	0m0.002s
+
+real	0m17.525s
+user	0m0.006s
+sys	0m0.005s
+
+real	0m15.912s
+user	0m0.008s
+sys	0m0.003s
+
+real	0m17.037s
+user	0m0.009s
+sys	0m0.002s
+
+real	0m15.962s
+user	0m0.007s
+sys	0m0.005s
+
+real	0m18.167s
+user	0m0.006s
+sys	0m0.006s
+
+real	0m16.755s
+user	0m0.007s
+sys	0m0.005s
+
+real	0m20.745s
+user	0m0.011s
+sys	0m0.002s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.004s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.022s
+user	0m0.006s
+sys	0m0.005s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.004s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.012s
+user	0m0.009s
+sys	0m0.001s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.012s
+user	0m0.008s
+sys	0m0.002s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.011s
+user	0m0.005s
+sys	0m0.004s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.024s
+user	0m0.007s
+sys	0m0.003s
+
+error: globus_xio: Unable to connect to cc088.fst.alcf.anl.gov:42978
+globus_xio: System error in connect: Connection refused
+globus_xio: A system call failed: Connection refused
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.005s

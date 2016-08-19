@@ -1,0 +1,27 @@
+Run-1: 
+********************10G 500M dataset seq xfer on GPFS ********************
+Time taken for 10G-500m dataset sequential data transfer on GPFS is :  371
+********************10G 500M dataset seq xfer md5sum on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  366
+********************20 10G dataset seq xfer on GPFS********************
+Time taken for 20-10G dataset sequential data transfer on GPFS is :  695
+********************20 10G dataset seq xfer md5sum on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  687
+Run-2: 
+********************10G 500M dataset seq xfer on GPFS ********************
+Time taken for 10G-500m dataset sequential data transfer on GPFS is :  363
+********************10G 500M dataset seq xfer md5sum on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  362
+********************20 10G dataset seq xfer on GPFS********************
+Time taken for 20-10G dataset sequential data transfer on GPFS is :  688
+********************20 10G dataset seq xfer md5sum on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  689
+Run-3: 
+********************10G 500M dataset seq xfer on GPFS ********************
+Time taken for 10G-500m dataset sequential data transfer on GPFS is :  364
+********************10G 500M dataset seq xfer md5sum on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  364
+********************20 10G dataset seq xfer on GPFS********************
+Time taken for 20-10G dataset sequential data transfer on GPFS is :  1088
+********************20 10G dataset seq xfer md5sum on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  892

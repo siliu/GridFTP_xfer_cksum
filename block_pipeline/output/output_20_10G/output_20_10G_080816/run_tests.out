@@ -1,0 +1,17 @@
+********************20 10G dataset block pipeline on localFS********************
+Time taken for 100 block pipeline is :  2783
+Time taken for 500 block pipeline is :  3113
+Time taken for 1000 block pipeline is :  3149
+Time taken for 2000 block pipeline is :  3149
+********************20 10G dataset file pipeline on localFS********************
+Time taken for 20-10G dataset file pipeline is :  2855
+********************20 10G dataset block pipeline on localFS********************
+Time taken for 100 block pipeline is :  2988
+Time taken for 500 block pipeline is :  2994
+Time taken for 1000 block pipeline is :  2988
+Time taken for 2000 block pipeline is :  2988
+********************20 10G dataset file pipeline on localFS********************
+Time taken for 20-10G dataset file pipeline is :  3194
+********************20 10G dataset block pipeline on localFS********************
+Time taken for 100 block pipeline is :  3334
+Killed by signal 15.

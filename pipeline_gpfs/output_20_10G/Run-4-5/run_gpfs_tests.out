@@ -1,0 +1,14 @@
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  488
+Time taken for 500 block pipeline is :  461
+Time taken for 1000 block pipeline is :  437
+Time taken for 2000 block pipeline is :  439
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  401
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  504
+Time taken for 500 block pipeline is :  463
+Time taken for 1000 block pipeline is :  440
+Time taken for 2000 block pipeline is :  425
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  417

@@ -1,0 +1,135 @@
+Real Dataset  Run-1: 
+********************Real dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  683
+Time taken for 100 block pipeline is :  385
+Time taken for 500 block pipeline is :  303
+Time taken for 1000 block pipeline is :  296
+********************Real dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  616
+********************Real dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  573
+Real Dataset  Run-2: 
+********************Real dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  581
+Time taken for 100 block pipeline is :  408
+Time taken for 500 block pipeline is :  309
+Time taken for 1000 block pipeline is :  302
+********************Real dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  598
+********************Real dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  580
+Real Dataset  Run-3: 
+********************Real dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  607
+Time taken for 100 block pipeline is :  417
+Time taken for 500 block pipeline is :  308
+Time taken for 1000 block pipeline is :  297
+********************Real dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  599
+********************Real dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  577
+Real Dataset  Run-4: 
+********************Real dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  590
+Time taken for 100 block pipeline is :  411
+Time taken for 500 block pipeline is :  308
+Time taken for 1000 block pipeline is :  302
+********************Real dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  604
+********************Real dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  577
+Real Dataset  Run-5: 
+********************Real dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  589
+Time taken for 100 block pipeline is :  407
+Time taken for 500 block pipeline is :  306
+Time taken for 1000 block pipeline is :  298
+********************Real dataset file pipeline on GPFS********************
+Time taken for real dataset file pipeline is :  594
+********************Real dataset file sequential on GPFS********************
+Time taken for real dataset file sequential is :  579
+Dataset 10G-500M Run-1: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  250
+Time taken for 500 block pipeline is :  140
+Time taken for 1000 block pipeline is :  137
+Time taken for 2000 block pipeline is :  139
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  292
+********************10G 500M dataset file sequential on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  304
+Dataset 10G-500M Run-2: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  218
+Time taken for 500 block pipeline is :  140
+Time taken for 1000 block pipeline is :  137
+Time taken for 2000 block pipeline is :  140
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  292
+********************10G 500M dataset file sequential on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  312
+Dataset 10G-500M Run-3: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  220
+Time taken for 500 block pipeline is :  140
+Time taken for 1000 block pipeline is :  136
+Time taken for 2000 block pipeline is :  138
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  291
+********************10G 500M dataset file sequential on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  309
+Dataset 10G-500M Run-4: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  227
+Time taken for 500 block pipeline is :  141
+Time taken for 1000 block pipeline is :  136
+Time taken for 2000 block pipeline is :  139
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  290
+********************10G 500M dataset file sequential on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  305
+Dataset 10G-500M Run-5: 
+********************10G 500M dataset block pipeline on GPFS********************
+Time taken for 100 block pipeline is :  220
+Time taken for 500 block pipeline is :  140
+Time taken for 1000 block pipeline is :  136
+Time taken for 2000 block pipeline is :  139
+********************10G 500M dataset file pipeline on GPFS********************
+Time taken for 10G-500M dataset file pipeline is :  292
+********************10G 500M dataset file sequential on GPFS********************
+Time taken for 10G-500m dataset sequential data transfer with md5sum on GPFS is :  309
+Dataset 20-10G Run-1: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  708
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  413
+********************20 10G dataset file sequential on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  577
+Dataset 20-10G Run-2: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  625
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  416
+********************20 10G dataset file sequential on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  578
+Dataset 20-10G Run-3: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  620
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  416
+********************20 10G dataset file sequential on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  577
+Dataset 20-10G Run-4: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  629
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  422
+********************20 10G dataset file sequential on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  577
+Dataset 20-10G Run-5: 
+********************20 10G dataset block pipeline on GPFS********************
+Time taken for 50 block pipeline is :  622
+********************20 10G dataset file pipeline on GPFS********************
+Time taken for 20 10G dataset file pipeline is :  423
+********************20 10G dataset file sequential on GPFS********************
+Time taken for 20-10G dataset sequential data transfer is :  581
